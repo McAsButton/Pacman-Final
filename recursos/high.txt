@@ -1,0 +1,5 @@
+miguel, 185
+test, 69
+prueba , 41
+prueba, 25
+a, 7

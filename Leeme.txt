@@ -1,0 +1,15 @@
+# Pacman en Pygame
+#
+# Descripción: Recreación del juego Pacman realizado en Pygame, se inicia desde el archivo pacman.py
+#
+#
+## Autores   : Miguel Angel Santa Abreu
+##             Wisberg Danilo Gallego Chaverra
+##             Jonatan Mariano Muñoz Muñoz
+##
+## $Fecha    : 30-Oct-2020 17:20:03 $ 
+## DEVELOPED : Visual Studio Code 1.51.1
+##             Python 3.8.6 64-bit
+##             PyGame 1.9.6
+##             
+## Version   : 1.0
